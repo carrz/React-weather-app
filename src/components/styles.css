@@ -1,10 +1,11 @@
 .locationList {
   height: 85vh;
   overflow: auto;
+  background-color: #FFF;
 }
 
 .forecastTitle{
-  color: #fff;
+  color: #888;
   text-align: center;
   padding-top: 15px;
   padding-bottom: 15px;
